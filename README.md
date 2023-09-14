@@ -32,7 +32,3 @@ pip install beautifulsoup4
 ### Saída
 
 O script irá percorrer todas as páginas do fórum especificado, extrair os links dos perfis do LinkedIn postados pelos usuários e salvá-los no arquivo .csv especificado. Ao final, uma mensagem será exibida informando que os links dos perfis do LinkedIn foram salvos no arquivo especificado.
-
-## Licença
-
-Esse script é distribuído sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
